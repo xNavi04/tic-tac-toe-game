@@ -1,5 +1,5 @@
 
-🕹️ Ultimate Tic-Tac-Toe Showdown: Challenge a Friend!
+**🕹️ Ultimate Tic-Tac-Toe Showdown: Challenge a Friend!**
 
 Dive into the classic game of Tic-Tac-Toe with a twist – now made for two players! 🎮 Experience the thrill of strategy and competition as you go head-to-head in a battle for three in a row. Here's what makes our Tic-Tac-Toe game a must-try:
 
